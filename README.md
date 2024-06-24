@@ -109,7 +109,7 @@ These tests provide insights into the statistical properties of the asset pair a
 The strategy is backtested using VectorBT, a powerful library for high-performance backtesting. Key aspects of the backtesting process include:
 
 - Initial capital: $100,000
-- Trading fees: 0.1% per trade
+- Trading fees: 1.1% per trade
 - Position sizing: 100% of available capital for each asset
 - Cash sharing between assets
 - Daily rebalancing
@@ -118,15 +118,15 @@ The strategy is backtested using VectorBT, a powerful library for high-performan
 
 The backtest results (as of the last run) show:
 
-- Total Return: 521.51%
+- Total Return: 152.63%
 - Benchmark Return: 142.38%
-- Sharpe Ratio: 1.52
-- Calmar Ratio: 1.89
-- Sortino Ratio: 2.59
-- Max Drawdown: 42.13%
-- Win Rate: 67.39%
+- Sharpe Ratio: 0.861891
+- Calmar Ratio: 0.733306
+- Sortino Ratio: 1.415727
+- Max Drawdown: 47.25%
+- Win Rate:  60.87%
 - Total Trades: 48
-- Profit Factor: 2.38
+- Profit Factor: 1.584234
 
 ## Visualization
 
