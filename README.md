@@ -143,21 +143,3 @@ The script generates various plots using Plotly:
 
 These visualizations provide intuitive insights into the strategy's performance and behavior.
 
-## Limitations and Risks
-
-- The strategy's performance may be sensitive to the chosen parameters
-- Past performance does not guarantee future results
-- The approach assumes a consistent statistical relationship between MRVL and MU
-- Large drawdowns may occur, as evidenced by the 42.13% maximum drawdown in the backtest
-
-## Future Improvements
-
-1. Implement additional risk management techniques (e.g., stop-loss orders)
-2. Explore machine learning approaches for dynamic parameter optimization
-3. Extend the strategy to multiple pairs or a basket of stocks
-4. Incorporate fundamental data for more robust pair selection
-5. Implement real-time trading capabilities
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
