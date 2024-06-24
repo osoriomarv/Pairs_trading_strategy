@@ -1,3 +1,5 @@
+Inspired by the analysis done by Diego Pesco Alcalde on pairs trading strategies done on KO and PEP (https://medium.com/@dp.alcalde/analysis-and-test-of-pairs-trading-strategies-4cb06d61414e)
+
 # Dynamic Pairs Trading Strategy: MRVL vs MU
 
 ## Table of Contents
