@@ -72,7 +72,7 @@ $$
 
 ### Log Returns Series
 $$
-\Delta \ell_t = \alpha + \beta t + \gamma \ell_{t-1} + \sum_{i=1}^{p} \delta_i \Delta \ell_{t-i} + \epsilon_t
+\Delta ell_t = \alpha + \beta t + \gamma \ell_{t-1} + \sum_{i=1}^{p} \delta_i \Delta \ell_{t-i} + \epsilon_t
 $$
 
 # Augmented Engle-Granger test for cointegration
@@ -91,16 +91,16 @@ $$
 
 # Linear Regression to Determine the Relationship Between MRVL and MU Prices
 
-Let \( P_{MRVL} \) be the price of Marvell Technology Group Ltd. (MRVL) and \( P_{MU} \) be the price of Micron Technology, Inc. (MU). The linear regression model can be represented as:
+Let $ P_{MRVL} $ be the price of Marvell Technology Group Ltd. (MRVL) and $ P_{MU} $ be the price of Micron Technology, Inc. (MU). The linear regression model can be represented as:
 
 $$
 P_{MRVL} = \alpha + \beta P_{MU} + \epsilon
 $$
 
 Where:
-- \( \alpha \) is the intercept of the regression line.
-- \( \beta \) is the slope of the regression line, representing the relationship between MRVL and MU prices.
-- \( \epsilon \) is the error term.
+- $ \alpha $ is the intercept of the regression line.
+- $ \beta $ is the slope of the regression line, representing the relationship between MRVL and MU prices.
+- $ \epsilon $ is the error term.
 
 
 
