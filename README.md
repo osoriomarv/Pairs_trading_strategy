@@ -141,5 +141,4 @@ The script generates various plots using Plotly:
 5. Drawdown analysis
 6. Trade analysis
 
-These visualizations provide intuitive insights into the strategy's performance and behavior.
 
